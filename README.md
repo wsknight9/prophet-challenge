@@ -40,3 +40,4 @@
 # What's the lowest point for search traffic in the calendar year?
 # Hints and Considerations
 # Review activities from each lesson for help with Prophet syntax and using Google Colab.
+# References class activites and pandas website
